@@ -9,3 +9,4 @@
 - \# NUM TABLE >= 2:
   - 조건에 부합하는 중고거래 댓글 조회하기 
 - GROUP BY HAVING COUNT
+  - 재구매가 일어난 상품과 회원 리스트 구하기 
