@@ -9,6 +9,7 @@
 - \# NUM TABLE >= 2
   - [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)
   - [과일로 만든 아이스크림 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/133025) / JOIN USING
+  - [서울에 위치한 식당 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131118) / JOIN ON & GROUP BY
 - GROUP BY HAVING COUNT
   - [재구매가 일어난 상품과 회원 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)
 - WHERE LIKE
